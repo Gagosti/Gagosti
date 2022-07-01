@@ -1,11 +1,11 @@
-Hi, I’m Guilherme Agostinho, welcome to my Github profile!👋
+<h2>Hi, I’m Guilherme Agostinho, welcome to my Github profile!👋</h2>
 
 - 💻 Full-Stack Web Developer
 - 📫 Contact: <a href="mailto:agustinho_santos@hotmail.com"> agustinho_santos@hotmail.com </a>
 - 🌱 I’m currently learning React.js
 
 <h2>
-  <li>skills:</li><br>
+  <li>Skills:</li><br>
   
 <p align="left" dir="auto">
 <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" style="max-width: 100%;"></a>
@@ -24,8 +24,3 @@ Hi, I’m Guilherme Agostinho, welcome to my Github profile!👋
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagosti&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagosti&layout=compact&langs_count=7&theme=tokyonight)
-
-
-
-
-
