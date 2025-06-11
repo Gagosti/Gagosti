@@ -2,7 +2,6 @@
 
 - 💻 Full-Stack Web Developer
 - 📫 Contact: <a href="mailto:agustinho_santos@hotmail.com"> agustinho_santos@hotmail.com </a>
-- 🌱 I’m currently learning React.js
 
 <h2>
   <li>Skills:</li><br>
